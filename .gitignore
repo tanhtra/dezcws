@@ -161,5 +161,5 @@ cython_debug/
 
 ny_taxi_postgres_data/
 ny_taxi_data/
-
-notes.txt
+ny_taxi_posgres_data/
+output.csv.gz
