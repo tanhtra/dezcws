@@ -217,3 +217,4 @@ target/
 dbt_packages/
 logs/
 # end dbt Cloud content
+HW2025_6/data/green_tripdata_2019-10.csv.gz
